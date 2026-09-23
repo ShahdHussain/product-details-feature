@@ -1,5 +1,5 @@
 # Storefront
-
+> Live Demo:[product-details-eosin.vercel.app](https://product-details-eosin.vercel.app)
 Team-ready scaffold for a product catalog and shopping cart. The product is **not fully implemented**. This repository gives each developer an isolated feature boundary so user stories can be built in parallel with few shared-file merge conflicts.
 
 > Features should own their implementation. Shared code should remain minimal and genuinely reusable.
